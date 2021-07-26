@@ -12,20 +12,22 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ## SUMÁRIO
 
-- [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
+- [Boas vindas ao repositório do projeto Lições Aprendidas!](#boas-vindas-ao-repositório-do-projeto-lições-aprendidas)
+  - [SUMÁRIO](#sumário)
+  - [Habilidades](#habilidades)
+  - [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-  - [Avaliador Automático](#avaliador-automático)
-- [Requisitos](#requisitos)
-  - [Dicas](#dicas)
-  - [Lista de requisitos](#lista-de-requisitos)
+  - [Data de Entrega](#data-de-entrega)
+  - [Instruções para  entregar seu projeto](#instruções-para--entregar-seu-projeto)
+    - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+    - [Durante o desenvolvimento](#durante-o-desenvolvimento)
+  - [Como desenvolver](#como-desenvolver)
+    - [Linter](#linter)
+    - [Avaliador automático](#avaliador-automático)
+  - [Requisitos](#requisitos)
+    - [Dicas](#dicas)
+    - [Lista de requisitos](#lista-de-requisitos)
     - [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
     - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
     - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
@@ -36,15 +38,14 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     - [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
     - [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
     - [10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles](#10-aplique-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
-  - [Bônus](#bônus)
     - [11. Teste a semântica da sua página está aprovada pelo site CodeSniffer](#11-teste-a-semântica-da-sua-página-está-aprovada-pelo-site-codesniffer)
+    - [BÔNUS](#bônus)
     - [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
     - [13. Utilize o Box model](#13-utilize-o-box-model)
     - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
     - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
+    - [(OPCIONAL) Depois de terminar o desenvolvimento](#opcional-depois-de-terminar-o-desenvolvimento)
+  - [Avisos finais](#avisos-finais)
 
 
 ## Habilidades
@@ -160,7 +161,7 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ### Linter
 
-Para garantir a qualidade do seu código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento nós utilizamos neste projeto o linter `ESLint`. Para rodar o linter localmente no seu projeto, execute o comando abaixo:
+Para garantir a qualidade do seu código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento nós utilizamos neste projeto o linter `Stylelint`. Para rodar o linter localmente no seu projeto, execute o comando abaixo:
 
 ```bash
 npm run lint:styles
