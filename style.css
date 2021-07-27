@@ -19,7 +19,7 @@ main {
 
 #titulo {
   text-align: center;
-  font-family: "Courier New", Courier, monospace;
+  font-family: Courier, monospace;
   font-size: 35px;
 }
 
@@ -46,7 +46,7 @@ main {
   display: inline-block;
 }
 
-#info{
+#info {
   margin-left: 15px;
 }
 
@@ -54,8 +54,8 @@ main {
   padding: 5px;
 }
 
-#info tr td:nth-child(odd) {
-  font-weight: bold;
+#info tr td:nth-child( odd ) {
+  font-weight: 700;
 }
 
 footer {
