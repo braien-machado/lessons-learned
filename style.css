@@ -46,18 +46,18 @@ footer {
   text-align: center;
 }
 
-.lado_esquerdo , .lado_direito {
+.lado-esquerdo , .lado-direito {
   border: 5px groove rgb(31, 124, 81);
   width: 45%;
   display: inline-block;
   vertical-align: top;
 }
 
-.lado_esquerdo h2 , .lado_direito h3 {
+.lado-esquerdo h2 , .lado-direito h3 {
   text-align: center;
 }
 
-.lado_esquerdo p , .lado_direito p {
+.lado-esquerdo p , .lado-direito p {
   text-align: justify;
   padding: 0 15px;
   text-indent: 7%;
