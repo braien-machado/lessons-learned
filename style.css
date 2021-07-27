@@ -42,6 +42,22 @@ main {
   margin-top: 15px;
 }
 
+#minha_foto , #info {
+  display: inline-block;
+}
+
+#info{
+  margin-left: 15px;
+}
+
+#info tr td {
+  padding: 5px;
+}
+
+#info tr td:nth-child(odd) {
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
 }
