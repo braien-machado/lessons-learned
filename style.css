@@ -14,10 +14,13 @@ main {
   background-color: rgb(31, 124, 81);
   height: 120px;
   width: 100%;
+  text-transform: uppercase;
 }
 
 #titulo {
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 35px;
 }
 
 #menu ul {
@@ -36,7 +39,7 @@ main {
 
 #minha_foto {
   width: 150px;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 footer {
@@ -47,4 +50,19 @@ footer {
   border: 5px groove rgb(31, 124, 81);
   width: 45%;
   display: inline-block;
-  vertical-align: top;}
+  vertical-align: top;
+}
+
+#sobre_aprendizado h2 , #dia_aprendizado h3 {
+  text-align: center;
+}
+
+#sobre_aprendizado p , #dia_aprendizado p {
+  text-align: justify;
+  padding: 0 15px 0 15px;
+  text-indent: 7%;
+}
+
+.lista {
+  line-height: 30px;
+}
