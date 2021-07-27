@@ -5,7 +5,7 @@ body {
 }
 
 main {
-  margin-left:15px;
+  margin-left: 15px;
 }
 
 #cabecalho {
@@ -43,9 +43,8 @@ footer {
   text-align: center;
 }
 
-#sobre_aprendizado, #dia_aprendizado {
+#sobre_aprendizado , #dia_aprendizado {
   border: 5px groove rgb(31, 124, 81);
   width: 45%;
   display: inline-block;
-  vertical-align: top;
-}
+  vertical-align: top;}
