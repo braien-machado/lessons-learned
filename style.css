@@ -19,7 +19,7 @@ main {
 
 #titulo {
   text-align: center;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-size: 35px;
 }
 
@@ -46,20 +46,20 @@ footer {
   text-align: center;
 }
 
-#sobre_aprendizado , #dia_aprendizado {
+.lado_esquerdo , .lado_direito {
   border: 5px groove rgb(31, 124, 81);
   width: 45%;
   display: inline-block;
   vertical-align: top;
 }
 
-#sobre_aprendizado h2 , #dia_aprendizado h3 {
+.lado_esquerdo h2 , .lado_direito h3 {
   text-align: center;
 }
 
-#sobre_aprendizado p , #dia_aprendizado p {
+.lado_esquerdo p , .lado_direito p {
   text-align: justify;
-  padding: 0 15px 0 15px;
+  padding: 0 15px;
   text-indent: 7%;
 }
 
