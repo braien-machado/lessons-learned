@@ -3,9 +3,11 @@ body {
   padding-top: 120px;
   margin: 0;
 }
+
 main {
-  margin-left:15px
+  margin-left:15px;
 }
+
 #cabecalho {
   position: fixed;
   top: 0;
@@ -13,27 +15,34 @@ main {
   height: 120px;
   width: 100%;
 }
+
 #titulo {
   text-align: center;
 }
+
 #menu ul {
   list-style-type: none;
 }
+
 #menu ul li {
   display: inline;
   padding-right: 15px;
 }
+
 #menu ul li a {
   text-decoration: none;
   color: white;
 }
+
 #minha_foto {
   width: 150px;
   margin-top: 20px;
 }
+
 footer {
   text-align: center;
 }
+
 #sobre_aprendizado, #dia_aprendizado {
   border: 5px groove rgb(31, 124, 81);
   width: 45%;
