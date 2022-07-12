@@ -27,7 +27,7 @@ HTML e CSS
 
 ```
 
-git clone (+chave SSH)
+git clone git@github.com:braien-machado/lessons-learned.git
 
 ```
 
