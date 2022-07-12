@@ -7,6 +7,8 @@
 
 Este projeto trata-se de um site que contém uma série de informações sobre o que aprendi na Trybe no início do curso. Exercitei meus conhecimentos iniciais de HTML e CSS.
 
+![site gif](./assets/lessons-learned-gif)
+
   
 
 ## Tecnologias usadas
